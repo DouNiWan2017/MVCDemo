@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVCDemo</string>
+
+    <string name="name">dnw</string>
+    <string name="userName">dnw2019</string>
+    <string name="passWord">dnw2019</string>
+    <string name="register">register</string>
+</resources>
